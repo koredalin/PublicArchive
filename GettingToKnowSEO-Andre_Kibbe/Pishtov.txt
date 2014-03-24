@@ -1,0 +1,83 @@
+GettingToKnowSEO-Andre_Kibbe
+Цел:
+Getting To Know SEO. The world has to know about me and my work!
+Преглед:
+Introduction 6
+
+1 Content + Links = SEO 15
+
+2 The Importance of Keywords 22
+
+3 Keyword Research Basics 28
+
+4 On-Page Optimization 39
+
+5 Understanding Backlinks 52
+
+6 Getting Links 61
+
+7 Understanding Competition 71
+
+8 Sharpening the Saw 94
+
+About The Author 98
+
+Въпроси:
+
+Why Learn SEO? 6
+The Benefits of SEO 7
+How This Book Is Organized 12
+
+WHAT ARE:
+What’s in a Page 15
+Good Content 16
+Keywords and Tags: The Elements of On-Page SEO 17
+Links: The Elements on Off-Page SEO 18
+Keys to an SEO-Friendly Site 19
+
+Keywords 22
+Keys to Leveraging Keywords 25
+
+The Google AdWords Keyword Tool 28
+Core Principles of Keyword Research 36
+
+HTML for On-Page Factors 40
+Meta Tags 41
+Header Tags 46
+Bold and Italic Tags 46
+Image Tags 47
+The Domain Name 48
+Jump Starting Your On-Page Optimization 49
+
+Link Nets 52
+The HTML Structure of Links 52
+Why Backlinks Matter 53
+PageRank 54
+Anchor Text Variation 56
+Natural vs. Manufactured Links 57
+Key Points on Internal Links and Backlinks 58
+
+Base Links 61
+Beginning to Build Links 62
+Guest Posting Networks 65
+Key Points on Getting Backlinks 68
+Accounting for Competition 69
+
+Narrowing Your Niche 71
+Finding Long Tail Keywords 72
+Analyzing Keyword Competition 74
+Whole-Page PageRank Assessment 75
+The Pure PageRank Method 79
+Getting More Keywords 82
+Getting a Handle on Competition 90
+
+Dealing with Setbacks 94
+Regular Reading 95
+// end of WHAT ARE
+Ключови думи:
+
+Отговори:
+
+Резюме:
+Yahoo uses BING search engine - (26.1%).
+Google (65.6%).
