@@ -1,10 +1,10 @@
 GettingToKnowSEO-Andre_Kibbe
 Цел:
 Getting To Know SEO. The world has to know about me and my work!
-Преглед:
-Introduction 6
 
-1 Content + Links = SEO 15 - around 3000 words 
+
+
+Introduction 6 - around 3000 words 
 Questions:
 Why Learn SEO? - 6
 Which are the Benefits of SEO? - 7
@@ -24,6 +24,33 @@ Test 3: 8 mins.
 Answers: 
 PPC costs $0,25 per click
 A short explanation of the book's heads/titles.
+
+
+1 Content + Links = SEO 15 - 8 pages - around 3400 words.
+second 5 mins
+all would agree that the two most import aspects of search
+engine optimization are content and links: “on-page” and “off-page”
+factors.h
+Questions:
+What’s in a Page? 15
+trhird 3 mins:
+The pages have "page rank".????
+How can I write a Good Content? 16
+What are the Keywords and Tags: The Elements of On-Page SEO? 17
+first 5 mins
+Title tags
+Meta descriptions
+Headers - Using titles and p tags.
+Alt text - ?
+
+Links: The Elements on Off-Page SEO 18
+Which are the Keys to an SEO-Friendly Site? 19
+Answers:
+
+
+
+
+
 
 
 
@@ -49,11 +76,7 @@ About The Author 98
 
 
 WHAT ARE:
-What’s in a Page 15
-Good Content 16
-Keywords and Tags: The Elements of On-Page SEO 17
-Links: The Elements on Off-Page SEO 18
-Keys to an SEO-Friendly Site 19
+
 
 Keywords 22
 Keys to Leveraging Keywords 25
