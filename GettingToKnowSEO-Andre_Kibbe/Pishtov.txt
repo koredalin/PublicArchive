@@ -60,16 +60,23 @@ Any links in Social media sites are backlinks, which should set up higher level 
 It's good internal links to be a whole sentences.
 
 
-
-
-
-
-
-
-
-
-
 2 The Importance of Keywords 22
+Keywords 22
+Keys to Leveraging Keywords 25
+Resume:
+Shorter keywords are called “head” or “primary” keywords.
+Longer keywords are known as “long tail” keywords.
+In most cases you’ll at least want to start your SEO campaigns with long tail keywords.
+Single words are more often searched, but the sentences sell!
+Virtually all successful SEO comes down to an ongoing cycle of publishing content and building links.
+Прегледай 5-6 сайта за ключови думи. Make a brain storming for keywords. Include your tools (calculator, clock, helper...).
+
+
+
+
+
+
+
 
 3 Keyword Research Basics 28
 
@@ -92,8 +99,7 @@ About The Author 98
 WHAT ARE:
 
 
-Keywords 22
-Keys to Leveraging Keywords 25
+
 
 The Google AdWords Keyword Tool 28
 Core Principles of Keyword Research 36
