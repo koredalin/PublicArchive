@@ -33,7 +33,7 @@ engine optimization are content and links: “on-page” and “off-page”
 factors.h
 Questions:
 What’s in a Page? 15
-trhird 3 mins:
+trhird 2 mins:
 The pages have "page rank".????
 How can I write a Good Content? 16
 What are the Keywords and Tags: The Elements of On-Page SEO? 17
@@ -41,11 +41,25 @@ first 5 mins
 Title tags
 Meta descriptions
 Headers - Using titles and p tags.
-Alt text - ?
+Alt text - alt flags on each image.
 
 Links: The Elements on Off-Page SEO 18
 Which are the Keys to an SEO-Friendly Site? 19
 Answers:
+Simple reading time - 28 mins (Имах известни проблеми с разбирането на понятието page rank):
+Search engines lists a single pages, not the whole sites.
+Google search result is only for a specific URL (individual web page), not for the whole s.
+Page Rank should leads Google to the main page as a highest rank /Explanation in Chapter 5/.
+The only way they can determine whether a page is relevant to a particular topic is to scan for keywords.
+Links from other websites are called backlinks.
+Links from three different websites will have more weight than three links from the same website. 
+Links from pages with higher PageRank will have more weight than links from pages with lower PageRank.
+The main activity should exist in the domain.
+Each single page should have a page title.
+Any links in Social media sites are backlinks, which should set up higher level of your site.
+It's good internal links to be a whole sentences.
+
+
 
 
 
