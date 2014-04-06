@@ -1,12 +1,4 @@
-```ruby
-
-<p style="color: blue;"><strong>All kinds of public archives.</strong></p>
-
-```
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
 ## All kinds of public archives
+
+Styling the README.md file: https://help.github.com/articles/github-flavored-markdown
+
