@@ -1,6 +1,8 @@
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("All kinds of public archives.")
+markdown = Redcarpet.new("
+<p style="color: blue;"><strong>All kinds of public archives.</strong></p>
+")
 puts markdown.to_html
 ```
 
