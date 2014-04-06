@@ -4,5 +4,5 @@ Styling the README.md file: https://help.github.com/articles/github-flavored-mar
 
 ```php
 <?php
-echo 'Have a nice day!';
+	echo 'Have a nice day!';
 ```
