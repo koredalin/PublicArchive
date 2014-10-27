@@ -1,6 +1,3 @@
-Github username: koredalin
-password: ghc48394
-
 Main configuring
 git config --global user.name "koredalin"
 git config --global user.email "koredalin@gmail.com"
