@@ -1,0 +1,129 @@
+Github username: koredalin
+password: ghc48394
+
+Main configuring
+git config --global user.name "koredalin"
+git config --global user.email "koredalin@gmail.com"
+
+Make git main directory
+cd "the folder"
+git init
+
+Get status of the project
+git status
+
+github error - fatal: this operation must be run in a work tree - eliminates error
+git config --bool core.bare false
+
+Adding files to git repo
+git add .   // All the files and subfolders
+git add text.html text2.html   ..... // Adding files one by one
+Staging - levels to commiting
+git add -i // Interactive picking
+git add -p // Asking for staging unstaged changes
+
+Commiting the file structure
+git commit // Setting commit number (version)
+git commit -a // Commits all the changes in the directory
+git commit -m "Change description"
+Exit guide:
+Press Esc -> :w || :wq || :zz
+:q - quit vim (editmsg)
+If it is VIM for Windows, you can do the following:
+enter your message following the presented guidelines
+press Esc to make sure you are out of the insert mode
+then type :wq -> Enter or ZZ.
+Note that in VIM there are often several ways to do one thing. Here there is a slight difference though. :wqEnter always writes the current file before closing it, while ZZ, :xEnter, :xiEnter, :xitEnter, :exiEnter and :exitEnter only write it if the document is modified.
+All these synonyms just have different numbers of keypresses.
+
+How to ignore redundant files
+vim .gitignore
+
+Making branch
+git branch // Show the existing branches
+git checkout -b newBranchName // Creates a new branch
+git checkout pricing // Enters the branch pricing
+
+Returning a file to different stage
+git checkout -- something.html // last stage
+git checkout HEAD
+git checkout master~2 something.html // предпоследния commit
+
+View git statistic
+git log // terminal echo
+git log --all
+git log --all --graph --oneline  // the smaller version
+gitk // A program like gitlab... Shows current branch
+gitk --all // Shows all branches
+
+Merging branches
+git merge pricing // Makes pricing branch commit to master branch
+
+Setting versions
+git tag -a v0.5 -m 'Change Description'
+git tag // shows current version
+git show v0.5 // Show the information for the latest commit
+git describe // Describes the last version, show the number of commits after setting the last version and the version hash.
+
+Changing the commit messages
+http://schacon.github.io/history.html
+git commit --amend // Change the last commit message
+git commit --amend -C HEAD
+git rebase -i HEAD~3 // Change the last 3 commit messages ->
+each time: git commit --amend :next - close the terminal - open it: git commit --continue 
+
+Restoring last commit
+https://www.kernel.org/pub/software/scm/git/docs/git-reset.html
+git reset --hard HEAD
+git reset --soft hash // returns the head to the hash
+
+git diff - Show the changes after last commit
+git diff nameOfFile.txt // Shows the changes in the file at the stage and at after that
+git diff --cached nameOfFile.txt // Shows the changes in the file BETWEEN the stage and most recent commit
+git diff hashHEAD^2 nameOfFile.txt // Shows the changes between the named coomit and now.
+
+Resolving merge conflicts
+git stash // ??? sth like reset
+git stash save "nameOfFile.txt" //
+git stash list
+git stash apply@{1}
+
+git remote access
+1. Make github repository.
+2. Make SSH key on local computer.
+// Make/Go to: ~/.ssh directory
+ssh-keygen -t rsa "email@address"
+// Enter the ssh key in web account
+ssh git@github.com // Checking the remote connection
+// Go to the desired directory to combine with the web repo
+git init
+// Make some readme file - for testing
+vim README.md
+// Commit it
+git add .
+git commit -m "First commit to Repo name"
+// Set the remote connection
+git remote add origin https://github.com/username/userproject.git
+// Initial push
+git push -u origin master // needs username and password of the github.com user
+// See the branches
+git branch -a
+
+// Clone a repository
+// 1.) Make/Go to some directory (/www)
+git clone https://github.com/username/project.git
+
+// Updating your directory with reloading the repo
+// 1.) Make local commits
+git fetch origin
+// Making merge
+git merge origin/master
+// => new push
+// OR you can use:
+git pull origin master
+
+// Removing files which begins with dots.
+shopt -s dotglob nullglob
+
+// Unix commands
+http://www.computerhope.com/unix.htm
